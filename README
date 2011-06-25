@@ -1,0 +1,8 @@
+Python wrappers for wikipedia differ, written in C++. 
+
+Includes an improvement over a wikipedia differ - subsequent 'adds' and 'deleted' are only counted as 'change' if sections are similar enough.
+
+Authors:
+Wikimedia foundation (original code)
+Bin Zhou <bzhou.au@gmail.com>
+George Karpenkov <george@metaworld.ru>

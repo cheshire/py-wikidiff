@@ -1,0 +1,4 @@
+Revision 64436 from http://svn.wikimedia.org/svnroot/mediawiki/trunk/extensions/wikidiff2
+last retrieved on 1st April 2010
+
+MUST MODIFY function sig of wikidiff2_do_diff in wikidiff2.{cpp,h} to begin with 'extern "C" '
